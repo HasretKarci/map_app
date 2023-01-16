@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "959092235247",
+    "project_id": "bitirme-map-app",
+    "storage_bucket": "bitirme-map-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959092235247:android:6c3e7ec59cba9ed241341a",
+        "android_client_info": {
+          "package_name": "com.example.map_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "959092235247-4vnuop7e1ietit33fjc64i7g8kqg0p1t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAq0Yd8po_q3o1J_6-ODpydlLfRg8zjMQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "959092235247-4vnuop7e1ietit33fjc64i7g8kqg0p1t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
